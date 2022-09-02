@@ -5,5 +5,6 @@ GUI-based Image Editor that takes images (png, jpg, jpeg) as an input and perfor
 to run  
 
 pip install tkinter pillow
+
 pyhton Image_Editor.py
 
